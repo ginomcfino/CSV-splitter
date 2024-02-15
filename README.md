@@ -1,3 +1,3 @@
 # csv-splitter
 
-Large CSV file goes in, chunked smaller files come out.
+A simple tool that breaks down large csv files into smaller chunks.
